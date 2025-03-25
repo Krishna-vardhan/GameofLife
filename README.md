@@ -6,9 +6,7 @@ This project implements Conway's Game of Life in Python. It is a zero-player gam
 Features:
 
 20x20 board for simulation
-
 Three built-in initial patterns to choose from
-
 Implements Conway's Game of Life rules:
 
   Underpopulation: Live cell with fewer than 2 live neighbors dies
@@ -20,7 +18,5 @@ Implements Conway's Game of Life rules:
   Reproduction: Dead cell with exactly 3 live neighbors becomes alive
   
 Toroidal (wrap-around) grid boundary
-
 Text-based visualization of live (*) and dead ( ) cells
-
 Interactive game loop that continues until the user decides to stop
