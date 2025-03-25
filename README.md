@@ -4,6 +4,7 @@ Game of Life - Python Implementation
 This project implements Conway's Game of Life in Python. It is a zero-player game that simulates cellular automaton evolution based on simple rules. The game evolves over generations on a 20x20 grid, with each cell either alive (*) or dead ( ). You can choose one of the predefined patterns to begin and watch it evolve over time.
 
 Features:
+
 20x20 board for simulation
 
 Three built-in initial patterns to choose from
